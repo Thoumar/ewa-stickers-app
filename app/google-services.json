@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998933581952",
+    "project_id": "ewa-stickers",
+    "storage_bucket": "ewa-stickers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998933581952:android:093d50b6b413d288d8d665",
+        "android_client_info": {
+          "package_name": "com.thoumar.ewastickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998933581952-92vme4cors0a3gkr7j92t6c05u7koscq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdPZB_VKT0BOtoVMUrxLBIlGrClT14bWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998933581952-92vme4cors0a3gkr7j92t6c05u7koscq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
